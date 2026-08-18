@@ -14,3 +14,5 @@ An autonomous AI agent designed to help job seekers optimize their resumes for A
 
 ## 📂 Repository Contents
 * `Career_Copilot_DSL.yml` - The exported Dify workflow configuration file.
+  ## 🚀 How to Try it out
+**Live Demo:** [Click here to chat with the AI Agent](https://udify.app/chat/E1ZsBmbIzY50stVC)
